@@ -1,6 +1,6 @@
 # Small container for running Python with Boto3
 # Updated to version 1.4.2
-FROM python:2.7-alpine
+FROM python:python:3.7-slim
 MAINTAINER jpbarto
 LABEL Version="0.1"
 
